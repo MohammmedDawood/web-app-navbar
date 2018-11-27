@@ -1,0 +1,25 @@
+{
+  "name": "name-badge",
+  "version": "1.0.0",
+  "jetVersion": "^6.0.0",
+  "displayName": "name-badge",
+  "description": "A translatable high-level description for the pack.",
+  "properties": {
+    "badgeName": {
+      "type": "string"
+    },
+    "badgeImage": {
+      "type": "string"
+    }
+
+  },
+  "methods": {
+
+  },
+  "events": {
+
+  },
+  "slots": {
+
+  }
+}

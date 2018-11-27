@@ -1,0 +1,21 @@
+name-badge:not(.oj-complete) {
+	visibility: hidden;
+}
+
+name-badge {
+	min-height: 50px;
+	width: 250px;
+	display: block;
+	margin: 10px;
+
+}
+
+name-badge .badge-face {
+	height: 120px;
+	width: 120px;
+	background-color: cornflowerblue;
+	border-radius: 7px;
+	text-align: center;
+	padding: 25px;
+
+}
